@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b9c280f91c05de4997608d47f6aba43
+timeCreated: 1475266513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73101
+  packageName: Crate and Barrels
+  packageVersion: 1.0
+  assetPath: Assets/Assets_Crate_Barrels/models/Materials/airport_concrete-1.mat
+  uploadId: 140470
